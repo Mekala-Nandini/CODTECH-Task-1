@@ -1,3 +1,4 @@
+![Simple_Calculator Output](https://github.com/user-attachments/assets/8d0e171c-832a-4e73-88c1-fe3213386ef8)
 **Name:** MEKALA NANDINI
 
 **Company:** CODTECH IT SOLUTIONS
